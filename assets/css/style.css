@@ -155,7 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body { background: linear-gradient(to right bottom, rgb(255, 170, 0), rgb(0, 0, 0) 68.91%); }
 
 
 
